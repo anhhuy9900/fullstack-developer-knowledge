@@ -1,4 +1,4 @@
-# Fullstack wed developer knowledge
+# Fullstack Web Developer knowledge
 
 This repository contains knowledge and question about fullstack web developer
 
